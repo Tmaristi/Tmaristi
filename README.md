@@ -34,13 +34,11 @@ Estudiante de Ingeniería de Sistemas e informatica en la **Universidad Nacional
 
 ### 🚀 Proyectos destacados
 
-<!-- Reemplaza los links y descripciones por los reales de tus repos -->
-
 - **[FullStackOpen](https://github.com/Tmaristi/Ejercicios-Fullstack-Open)** — Ejercicios y proyectos del curso FullStackOpen: Node.js, Express, MongoDB y React, con despliegue en Render.
 - **[Roadmap Tracker](https://github.com/Tmaristi/roadmap-app)** — Proyecto personal para seguimiento de rutas de aprendizaje.
 ---
 
 ### 📫 Contacto
 
-- LinkedIn: [www.linkedin.com/in/tomas-murillo-aristizabal-9a6a46303](www.linkedin.com/in/tomas-murillo-aristizabal-9a6a46303)
+- LinkedIn: [Tomas Murillo Aristizabal](www.linkedin.com/in/tomas-murillo-aristizabal-9a6a46303)
 - Correo: tmaristizabal@gmail.com
