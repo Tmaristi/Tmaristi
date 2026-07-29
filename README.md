@@ -42,5 +42,5 @@ Estudiante de Ingeniería de Sistemas e informatica en la **Universidad Nacional
 
 ### 📫 Contacto
 
-- LinkedIn: [www.linkedin.com/in/tomas-murillo-aristizabal-9a6a46303](#)
+- LinkedIn: [www.linkedin.com/in/tomas-murillo-aristizabal-9a6a46303](www.linkedin.com/in/tomas-murillo-aristizabal-9a6a46303)
 - Correo: tmaristizabal@gmail.com
