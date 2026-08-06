@@ -26,7 +26,6 @@ Estudiante de Ingeniería de Sistemas e Informática en la **Universidad Naciona
 **IA & Agentes**
 
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Function Calling](https://img.shields.io/badge/-Function%20Calling-333333?style=flat-square)
 ![RAG](https://img.shields.io/badge/-RAG-333333?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-333333?style=flat-square)
 
